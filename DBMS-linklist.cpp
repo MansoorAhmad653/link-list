@@ -2,7 +2,7 @@
 #include <cstring>
 using namespace std;
 
-#define MAXSUB 5        // Max Subjects
+#define MAXSUB 5        // Max Subject
 
 // Structure Declaration for Student Node
 struct student
